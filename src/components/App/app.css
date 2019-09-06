@@ -1,0 +1,21 @@
+/*
+ * Main app css
+ */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.app {
+  background-color: wheat;
+  padding: 20px;
+}
+
+.toggle-button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 14px;
+}
